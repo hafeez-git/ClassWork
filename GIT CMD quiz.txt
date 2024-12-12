@@ -1,0 +1,72 @@
+
+C:\Users\USER>git config --global user.name "hafeez-git"
+
+C:\Users\USER>git config --global user.email abdulrahmanhafiz01@gmail.com
+
+C:\Users\USER>cd KHEMSAFE
+The system cannot find the path specified.
+
+C:\Users\USER>cd Desktop
+
+C:\Users\USER\Desktop>cd KHEMSAFE
+
+C:\Users\USER\Desktop\kHEMSAFE>mkdir HafeezWeeklyQuiz
+
+C:\Users\USER\Desktop\kHEMSAFE>cd HafeezWeeklyQuiz
+
+C:\Users\USER\Desktop\kHEMSAFE\HafeezWeeklyQuiz>echo My Name is Hafeez Abdulrahman. I am an aspirationg Cloud Computing Analyst.>AboutHafeez.txt
+
+C:\Users\USER\Desktop\kHEMSAFE\HafeezWeeklyQuiz>AboutHafeez.txt
+
+C:\Users\USER\Desktop\kHEMSAFE\HafeezWeeklyQuiz>echo My Name is Hafeez Abdulrahman. I am an aspirationg Cloud Computing Analyst.>AboutHafeez.docx
+
+C:\Users\USER\Desktop\kHEMSAFE\HafeezWeeklyQuiz>AboutHafeez.docx
+
+C:\Users\USER\Desktop\kHEMSAFE\HafeezWeeklyQuiz>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 18A5-33CD
+
+ Directory of C:\Users\USER\Desktop\kHEMSAFE\HafeezWeeklyQuiz
+
+12/07/24  01:47 PM    <DIR>          .
+12/07/24  01:38 PM    <DIR>          ..
+12/07/24  01:47 PM                77 AboutHafeez.docx
+12/07/24  01:42 PM                77 AboutHafeez.txt
+               2 File(s)            154 bytes
+               2 Dir(s)  11,790,573,568 bytes free
+
+C:\Users\USER\Desktop\kHEMSAFE\HafeezWeeklyQuiz>type nul>Blank.docx
+
+C:\Users\USER\Desktop\kHEMSAFE\HafeezWeeklyQuiz>Blanck.docx
+'Blanck.docx' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\USER\Desktop\kHEMSAFE\HafeezWeeklyQuiz>Blank.docx
+
+C:\Users\USER\Desktop\kHEMSAFE\HafeezWeeklyQuiz>type nul>Blank.pdf
+
+C:\Users\USER\Desktop\kHEMSAFE\HafeezWeeklyQuiz>Blank.pdf
+
+C:\Users\USER\Desktop\kHEMSAFE\HafeezWeeklyQuiz>type nul>Blank.cdr
+
+C:\Users\USER\Desktop\kHEMSAFE\HafeezWeeklyQuiz>Blank.cdr
+
+C:\Users\USER\Desktop\kHEMSAFE\HafeezWeeklyQuiz>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 18A5-33CD
+
+ Directory of C:\Users\USER\Desktop\kHEMSAFE\HafeezWeeklyQuiz
+
+12/07/24  01:57 PM    <DIR>          .
+12/07/24  01:38 PM    <DIR>          ..
+12/07/24  01:47 PM                77 AboutHafeez.docx
+12/07/24  01:42 PM                77 AboutHafeez.txt
+12/07/24  01:57 PM                 0 Blank.cdr
+12/07/24  01:53 PM                 0 Blank.docx
+12/07/24  01:57 PM                 0 Blank.pdf
+12/07/24  01:51 PM             1,349 GIT CMD quiz.txt
+               6 File(s)          1,503 bytes
+               2 Dir(s)  11,788,828,672 bytes free
+
+C:\Users\USER\Desktop\kHEMSAFE\HafeezWeeklyQuiz>
+
